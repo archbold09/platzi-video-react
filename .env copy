@@ -1,0 +1,3 @@
+// CONFIG
+POST = 3000
+CORS=*
