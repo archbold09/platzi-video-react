@@ -74,3 +74,6 @@ yarn-error.log
 
 # Build
 dist/
+
+#server
+src/server/public
